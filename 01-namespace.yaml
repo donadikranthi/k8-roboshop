@@ -3,8 +3,5 @@ kind: Namespace
 metadata:
   name: roboshop
   labels:
-    name: roboshop
-    environment: dev
+    environment: development
     project: roboshop
-    team: devops
-    owner: roboshop-admin
