@@ -37,7 +37,7 @@ spec:
           tcpSocket:
             port: 5672
           initialDelaySeconds: 15
-          periodSeconds: 10
+          periodSeconds: joindevops
         livenessProbe:
           tcpSocket:
             port: 5672
